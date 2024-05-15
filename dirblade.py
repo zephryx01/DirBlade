@@ -53,9 +53,6 @@ def main():
     print("Target URL:", target_url)
     print("Wordlist:", wordlist_path)
 
-    banner()
-    print("")
-
     with concurrent.futures.ThreadPoolExecutor() as executor:
         executor.map(lambda directory: dir_bruteforce(target_url, wordlist_path), range(1))
 
