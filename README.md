@@ -1,6 +1,8 @@
 # DirBlade
 ```DirBlade``` is a versatile directory bruteforce tool designed to uncover hidden directories and files on web servers. Whether you're conducting penetration tests, security assessments, or bug bounty hunting, ```DirBlade``` empowers you to thoroughly explore web applications for potential vulnerabilities.
 
+![Example](https://github.com/m1dn1ghtMHR/DirBlade/blob/main/Image.png)
+
 ## Features
 - **Efficient Bruteforcing:** DirBlade utilizes a brute force approach to systematically scan directories and files on target web servers.
 - **Customizable Wordlists:** Users can specify their own wordlists tailored to the target application or use default wordlists included with the tool.
