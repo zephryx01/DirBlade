@@ -20,7 +20,7 @@ def banner():
 ╚═════╝░╚═╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝      
     """
     print(banner)
-    print_red("                                               by M1dn1ght-Zain")
+    print_red("                                               by M1dkn1ght-M1h1r")
 
 if __name__ == "__main__":
     banner()
