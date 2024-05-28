@@ -9,12 +9,13 @@
 - **User-Friendly Interface:** With a simple command-line interface, DirBlade is accessible to users of all experience levels.
 ## Usage
 To start using DirBlade, simply provide the target URL using ```-u``` or ```--url``` along with a wordlist using ```-w``` or ```--url``` containing directory and file paths to be bruteforced.
-#### NOTE--> If you want to use default wordlist then don't use wordlist option simply press ```ENTER```.
 
 ## Example usage:
 ```
 python3 dirblade.py -u http://example.com -w path/to/wordlist
 ```
+### NOTE--> If you want to use default wordlist then press ```ENTER```.
+
 ## Installation
 > Clone the DirBlade repository from GitHub:
 ```
