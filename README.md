@@ -18,7 +18,7 @@ python3 dirblade.py -u http://example.com -w path/to/wordlist
 ## Installation
 > Clone the DirBlade repository from GitHub:
 ```
-git clone https://github.com/midknight-mihir/DirBlade.git
+git clone https://github.com/midnight-zeph/DirBlade.git
 ```
 
 > Navigate to the DirBlade directory:
