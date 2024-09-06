@@ -20,7 +20,7 @@ def banner():
 ╚═════╝░╚═╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝      
     """
     print(banner)
-    print_red("                                               by m1dn1ght-m1h1r")
+    print_red("                                               by zephryx01")
 
 if __name__ == "__main__":
     banner()
@@ -42,7 +42,7 @@ def dir_bruteforce(target_url, wordlist_path):
                 print("[+] Discovered Directory ----->", test_url)
 
 def main():
-    parser = argparse.ArgumentParser(description="DirBlade - A directory bruteforcing tool")
+    parser = argparse.ArgumentParser(description="DirBlade - A directory bruteforcing tool by Zephryx01")
     parser.add_argument("-u", "--url", help="Target URL (ex. http://example.com)", required=True)
     parser.add_argument("-w", "--wordlist", help="Path of the wordlist", default="default.txt")
     args = parser.parse_args()
